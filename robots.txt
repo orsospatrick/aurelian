@@ -1,3 +1,4 @@
+Sitemap: https://https://europatransportpersoane.com/sitemap.xml
 User-Agent: *
 Allow: /
 
